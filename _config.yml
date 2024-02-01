@@ -58,8 +58,7 @@ plugins:
 author:
   name   : "Jingjing Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : - "Owner of two cats."
-           - "Reach me at jessica406w@gmail.com"
+  bio    : "Owner of two cats. Reach me at jessica406w@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
