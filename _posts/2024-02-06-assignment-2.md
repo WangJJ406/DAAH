@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2"
-date: 2019-02-18T15:34:30-04:00
+date: 2024-02-06T15:34:30-04:00
 categories:
   - blog
 tags:
