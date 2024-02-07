@@ -39,6 +39,8 @@ In the second part of the lecture, we are introduced to a function called story 
 The story Maps function supports multimedia, which means you can directly import images and videos either from your local files or online sources. The images can also be embedded into the map to give a clear view of different "stories" happening in different region on the map. In the example, I used a *New York Times* article as the text source and put relavant images on the map to give the audience a more concrete coherent and visualized reading experience.
 ![Combined Map Maps]("/assets/images/blk.jpg")
 
+View the full StoryMap [here](https://storymaps.arcgis.com/stories/1278d6ead2e4460e96b59b8e11603c14).
+
 
 
 
