@@ -14,7 +14,7 @@ In the love Data Week, I took the lecture of "Introduction to Story Maps (ArcGIS
 There are two ways to display a map: **Raster and Vector**.
 Maps displayed by raster is like pixeled pictures, and the **resolution decrease as the viewer zooms in**. Maps displayed by vector **does not lose resolution when zoomed in**. Below is a slide from the lecture to show the difference between raster and vector.
 
-![Map Forms]("/assets/images/mapforms.jpg")
+<img src="/assets/images/mapforms.jpg" style="zoom:25%;" />
 
 ## Multi-layered Maps 
 
