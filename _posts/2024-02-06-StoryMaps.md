@@ -22,33 +22,33 @@ In the lecture, the instructor showed us how to visualize statistical results in
 
 First, we import the compressed files containing different spatial data files into the platform. And the platform will automatically read the data and generate each map based on different files.
 
-For example, the first map below is a layer showing public school districts in NYC. The second layer contains the marks of each unsolved homicide within this range. 
+For example, the first map below is a layer showing public school districts in NYC. The second layer contains the marks of each unsolved homicide within this range.
 
-![School District Map]("/assets/images/school_districts.jpg")
+<img src="/assets/images/school_districts.jpg" style="zoom:25%;" />
 
-![Unsolved Homicides Map]("/assets/images/unsolved_homicides.jpg")
+<img src="/assets/images/unsolved_homicides.jpg" style="zoom:25%;" />
 
 After that, we can ask it to generate maps that express public school density **in shades of color blocks**, which can make the images more concise and intuitive.
 
-![Combined Map Maps]("/assets/images/district_homimcide_color.jpg")
+<img src="/assets/images/district_homimcide_color.jpg" style="zoom:25%;" />
 
 Then we can **put the two layers together into one map**, which will generate the following one. From this map, we can see the relationship between distribution of unsolved homicides and density of public schools.
 
-![Combined Map Maps]("/assets/images/combined.jpg")
+<img src="/assets/images/combined.jpg" style="zoom:25%;" />
 
 Also, we can look into specific data sets using "**filter**" function. This function enables people to better understand **how one layer would affect the performance of different data groups in another layer**. Here I use the example of separating the victim group by sex. In the map, we can see that red dots represent males, blue dots represent females and green represent unknown. And the background color blocks indicats the density of public school districts within that region. And we can get a rough conclusion that unsolved homicides with male victims are more likely to appear in regions with less public schools. 
 
-![Combined Map Maps]("/assets/images/sex.jpg")
+<img src="/assets/images/sex.jpg" style="zoom:25%;" />
 
 ## Story Maps 
 
 In the second part of the lecture, we are introduced to a function called story maps. This function enables users to **embed maps created in the first part into webpages**. 
 
-![Combined Map Maps]("/assets/images/embed_maps.jpg")
+<img src="/assets/images/embed_maps.jpg" style="zoom:25%;" />
 
 The story Maps function supports multimedia, which means you can directly import images and videos either from your local files or online sources. **The images can also be embedded into the map** to give a clear view of different "stories" happening in different region on the map. In the example, I used a *New York Times* article as the text source and put relavant images on the map to give the audience a more concrete coherent and visualized reading experience.
 
-![Combined Map Maps]("/assets/images/blk.jpg")
+<img src="/assets/images/blk.jpg" style="zoom:25%;" />
 
 View the full StoryMap [here](https://storymaps.arcgis.com/stories/1278d6ead2e4460e96b59b8e11603c14).
 
