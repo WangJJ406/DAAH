@@ -44,7 +44,7 @@ Also, we can look into specific data sets using "**filter**" function. This func
 
 In the second part of the lecture, we are introduced to a function called story maps. This function enables users to **embed maps created in the first part into webpages**. 
 
-<img src="/assets/images/embed_maps.jpg" style="zoom:25%;" />
+<img src="/assets/images/embed_map.jpg" style="zoom:25%;" />
 
 The story Maps function supports multimedia, which means you can directly import images and videos either from your local files or online sources. **The images can also be embedded into the map** to give a clear view of different "stories" happening in different region on the map. In the example, I used a *New York Times* article as the text source and put relavant images on the map to give the audience a more concrete coherent and visualized reading experience.
 
