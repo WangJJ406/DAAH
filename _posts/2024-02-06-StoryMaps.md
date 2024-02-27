@@ -14,7 +14,7 @@ In the love Data Week, I took the lecture of "Introduction to Story Maps (ArcGIS
 There are two ways to display a map: **Raster and Vector**.
 Maps displayed by raster is like pixeled pictures, and the **resolution decrease as the viewer zooms in**. Maps displayed by vector **does not lose resolution when zoomed in**. Below is a slide from the lecture to show the difference between raster and vector.
 
-<img src="/assets/images/mapforms.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/mapforms.jpg" style="zoom:25%;" />
 
 ## Multi-layered Maps 
 
@@ -24,31 +24,31 @@ First, we import the compressed files containing different spatial data files in
 
 For example, the first map below is a layer showing public school districts in NYC. The second layer contains the marks of each unsolved homicide within this range.
 
-<img src="/assets/images/school_districts.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/school_districts.jpg" style="zoom:25%;" />
 
-<img src="/assets/images/unsolved_homicides.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/unsolved_homicides.jpg" style="zoom:25%;" />
 
 After that, we can ask it to generate maps that express public school density **in shades of color blocks**, which can make the images more concise and intuitive.
 
-<img src="/assets/images/district_homimcide_color.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/district_homimcide_color.jpg" style="zoom:25%;" />
 
 Then we can **put the two layers together into one map**, which will generate the following one. From this map, we can see the relationship between distribution of unsolved homicides and density of public schools.
 
-<img src="/assets/images/combined.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/combined.jpg" style="zoom:25%;" />
 
 Also, we can look into specific data sets using "**filter**" function. This function enables people to better understand **how one layer would affect the performance of different data groups in another layer**. Here I use the example of separating the victim group by sex. In the map, we can see that red dots represent males, blue dots represent females and green represent unknown. And the background color blocks indicats the density of public school districts within that region. And we can get a rough conclusion that unsolved homicides with male victims are more likely to appear in regions with less public schools. 
 
-<img src="/assets/images/sex.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/sex.jpg" style="zoom:25%;" />
 
 ## Story Maps 
 
 In the second part of the lecture, we are introduced to a function called story maps. This function enables users to **embed maps created in the first part into webpages**. 
 
-<img src="/assets/images/embed_map.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/embed_map.jpg" style="zoom:25%;" />
 
 The story Maps function supports multimedia, which means you can directly import images and videos either from your local files or online sources. **The images can also be embedded into the map** to give a clear view of different "stories" happening in different region on the map. In the example, I used a *New York Times* article as the text source and put relavant images on the map to give the audience a more concrete coherent and visualized reading experience.
 
-<img src="/assets/images/blk.jpg" style="zoom:25%;" />
+<img src="/assets/images/storymaps/blk.jpg" style="zoom:25%;" />
 
 View the full StoryMap [here](https://storymaps.arcgis.com/stories/1278d6ead2e4460e96b59b8e11603c14).
 
