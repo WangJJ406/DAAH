@@ -33,7 +33,7 @@ For example, I use the API Categorical Scrapping program to sort out all the obj
 
 <img src="/assets/images/assignment_1/Chinese.jpg" style="zoom:25%;" />
 
-## Part 3 - Word Cloud
+## Part 3 - Visualized Analytics
 
 Word cloud is a statistical graph to visually show the word frequencies in a range of texts. It can help readers to find the key features or central ideas of a text just by grasping the word cloud.
 
@@ -44,6 +44,8 @@ The program first sort out all the artifacts belong to these cultures. From the 
 <img src="/assets/images/assignment_1/object_culture.jpg" style="zoom:75%;" />
 
 <img src="/assets/images/assignment_1/newplot.jpg" style="zoom:100%;" />
+
+### Word Cloud
 
 Apart from comparing general images of the background of the artifacts in each culture, I use the word cloud to look into the key feature of the cultures one by one. I set stopwords to exclude the functional words, numbers, or words that are meaningless. I set single color for each image generated because I think the size of the words are enough to explain the frequency, adding colors might make it chaotic. Below I will explain more details about each word cloud generated.
 
