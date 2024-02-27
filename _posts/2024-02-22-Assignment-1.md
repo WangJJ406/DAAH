@@ -53,13 +53,13 @@ The first word cloud shows the most frequent words that are used to describe Chi
 
 The second word cloud shows the most frequent words in Japanese artifacts. "Series" is the top frequent word among all of the words, and is followed by words like "Poem","Tale","View" and "Chapter". This might suggest that there is a large amount of text or image works which can explain ideas and even series of ideas. From this we can possibly say that Japanese care about the art of language and are keen on expressing ideas.
 
-<img src="/assets/images/assignment_1/japanese.jpg" style="zoom:100%;" />
+<img src="/assets/images/assignment_1/japanese.jpg" style="zoom:110%;" />
 
 The third word cloud shows the most frequent words in Korean artifacts. "Sherd" and "fragment" are two words that appeared often. Together looking at century-specific statistics for Korean artifacts, we can possibly conclude that the artifacts are too old to be well preserved compared to artifacts from the other two cultures.
 
-<img src="/assets/images/assignment_1/Korean.jpg" style="zoom:100%;" />
+<img src="/assets/images/assignment_1/Korean.jpg" style="zoom:110%;" />
 
-<img src="/assets/images/assignment_1/century.jpg" style="zoom:100%;" />
+<img src="/assets/images/assignment_1/century.jpg" style="zoom:110%;" />
 
 Apart from the individual features of each culture, we definitely see some common patterns among the three east asian cultures. All of the three word clouds contain "decoration", which might suggest that the importance of aesthetics in the east asia. And from this, we can further generate that there should be at least some parts of the countries are wealthy enough to afford buying or making decorational objects. Plants seem to have some significance in East Asian culture as well. Both Japanese and Korean word clouds contain "flower" or "floral, while Chinese also contains "bamboo" and "leaves".
 
