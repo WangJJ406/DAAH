@@ -5,6 +5,11 @@ categories:
 tags:
   - Post Formats
   - notice
+toc: true
+toc_label: "Assignment 4"
+toc_sticky: true
+toc_icon: "calendar" #"book"
+---
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

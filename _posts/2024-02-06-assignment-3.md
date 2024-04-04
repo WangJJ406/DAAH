@@ -5,6 +5,11 @@ categories:
 tags:
   - chat
   - Post Formats
+toc: true
+toc_label: "Assignment 3"
+toc_sticky: true
+toc_icon: "calendar" #"book"
+---
 ---
 
 Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
