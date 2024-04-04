@@ -7,10 +7,10 @@ tags:
   - Post Formats
   - readability
   - standard
-toc:true
-toc_label: "Blog Parts"
+toc: true
 toc_sticky: true
-toc_icon: "calendar" #"book"
+toc_label: "Blog Parts"
+toc_icon: "calendar"
 ---
 
 When we look into the marvellous pieces in the museums, do you see the "tags" behind? Cultural Heritage has a myriad of labels behind it. Although these labels cannot replace the meaning and value of Cultural Heritage itself, they show us the connection of the artifacts. This project focuses on analyzing the textual descriptions of Cultural Heritage, analyzing the number of keyword occurrences and visualizing them with wordcloud, in order to find the similarities and differences between different cultures.
