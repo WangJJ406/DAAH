@@ -20,7 +20,7 @@ When we look into the marvellous pieces in the museums, do you see the "tags" be
 The [Harvard Art Museums website](https://harvardartmuseums.org) has an aesthetically pleasing design. However, I don't think it does a good job of guiding non-specialists through the process of exploring and learning about Cultural Heritage because the site doesn't do a great job of proactively recommending exhibits that, for the most part, one would need to search for on their own to explore. Of course, the filter function of the website is good to stimulate people's desire to explore. It puts filters on some of the dimensions so that we can limit out the scope of what we want and thus focus more on wanting to understand the parts. However, until one clicks through to a specific presentation of an artifact, all of the artifacts in the site are presented in an image arrangement, which makes it difficult to see a complete overview, and instead focuses more on each individual.
 
 ##### A general layout after setting a filter 'Chinese'
-<!--img src="/assets/images/assignment_1/webpage.jpg" style="zoom:25%;" -->
+<img src="/assets/images/assignment_1/webpage.jpg" style="zoom:25%;" />
 
 ##### The layout after clicking into one of the artifacts
 <img src="/assets/images/assignment_1/artifact_introduction.jpg" style="zoom:25%;" />
