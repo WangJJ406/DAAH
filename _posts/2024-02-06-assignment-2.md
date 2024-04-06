@@ -4,9 +4,7 @@ last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - AI Assisted
 toc: true
 toc_label: "Assignment 2"
 toc_sticky: true
@@ -75,5 +73,6 @@ Rap, on the other hand, is more diverse and includes not only street culture, pe
 Metal's language style tends to be abstract and symbolic, with wording that is sometimes darker and more philosophical.
 The language of R&B is usually more tender and romantic, sometimes containing sexual innuendo, with subtle, rhythmic phrasing.
 The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
+
 
 
