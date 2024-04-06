@@ -100,7 +100,7 @@ By dissecting the lyrical choices made by artists across these vastly different 
 - The language of R&B is usually more tender and romantic, sometimes containing sexual innuendo, with subtle, rhythmic phrasing.
 - The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
 
-##Geographical Info
+## Geographical Info
 
 *Metal*
 <iframe style='width: 477px; height: 342px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-175e934932443757a181ba54187f31e6&overridesId=f7f79031f8bc39caa30b98814cc4ed31&corpus=b9dc7b26e9099b2e1a51be28f2d6f1e9'></iframe>
