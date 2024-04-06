@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "calendar" #"book"
 ---
 
-*What do People Sing? Lyrics for R&B,Metal and Rap songs*
+*What do People Sing? Findings in R&B,Metal and Rap song lyrics*
 
 ## Intro 
 
@@ -74,5 +74,7 @@ Metal's language style tends to be abstract and symbolic, with wording that is s
 The language of R&B is usually more tender and romantic, sometimes containing sexual innuendo, with subtle, rhythmic phrasing.
 The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
 
-
+##Geographical Info
+Rap
+<iframe style='width: 515px; height: 305px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-eb506bd44ca33711ea42bed8a7627f55&corpus=065a4bd902332f0ba0384454a8da37fb'></iframe>
 
