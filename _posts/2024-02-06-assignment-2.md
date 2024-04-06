@@ -53,14 +53,14 @@ The words "baby," "mama," "life," and "way" might point to more personal storyte
 Moreover, the presence of words like "bounce," "lil," "gon," and "OG" are tied to the culture and slang unique to the rap genre. They speak to the rhythm, lifestyle, and heritage that the music often celebrates.
 
 
-##Similarities and Differences found in Word Clouds
+## Similarities and Differences found in Word Clouds
 
 #### Similarities
 
 Emotional Expression: All three styles of music use lyrics to express strong emotions, whether it's the passion and anger of Metal, the love and longing of R&B, or the realism and social commentary of Rap.
 PERSONAL AND SOCIAL: All three explore personal experiences and social phenomena to some degree, reflecting broader themes through a personal lens.
 LYRICAL CHARACTERISTICS: Lyrics in all three styles tend to use repetitive keywords to emphasize themes.
-#### Points of Difference
+#### Difference
 
 *Thematic Focus*
 
