@@ -27,46 +27,71 @@ By dissecting the lyrical choices made by artists across these vastly different 
 ### Word Cloud for Metal
 <img src="/assets/images/assignment2_corpus/metal-cloud.jpg" style="zoom:125%;" />
 
-The image is a word cloud formed from the lyrics of 20 metal songs. It highlights certain words that are likely central to the themes and emotions conveyed in the lyrics. Words like "heart," "burning," "feel," "know," "day," "night," "eyes," and "mind" stand out, suggesting that these metal songs might deal with emotions, inner experiences, and concepts of duality such as "day and night." The genre often evokes strong emotions and might express passion, anguish, rage, or other intense feelings.
+- **Themes and Emotions:** 
+  - Conveying strong emotions such as passion, anguish, and rage.
+  - Dealing with inner experiences and emotional intensity.
+  - Exploring concepts of duality, exemplified by "day and night."
 
-Additionally, terms such as "breaking," "evil," "hell," "ride," "space," and "queen" may hint at narrative elements or are used to create an atmosphere or imagery. Metal music frequently employs such language to craft a powerful auditory and visual impact, often touching on themes of power, conflict, the supernatural, or space.
+- **Common Words:**
+  - "Heart," "burning," "feel," "know," "day," "night," "eyes," and "mind" as significant terms.
+
+- **Narrative and Atmosphere:**
+  - Using terms like "breaking," "evil," "hell," "ride," "space," and "queen" for storytelling.
+  - Crafting a powerful auditory and visual impact.
+  - Themes often include power, conflict, the supernatural, or explorations of space.
 
 
 ### Word Cloud for R&B
 <img src="/assets/images/assignment2_corpus/rnb_cloud.jpg" style="zoom:125%;" />
-This image is a word cloud generated from the lyrics of 20 R&B songs. Words like "beautiful," "love," "know," "halo," and "come" are prominently featured, suggesting themes of love, beauty, and perhaps a sense of spiritual or protective imagery as suggested by the word "halo." 
 
-The presence of words such as "just," "feel," "make," and "wanna" implies action and desire, which are often central to the narrative of R&B songs, focusing on the emotions and relationships of the individuals. 
+- **Themes of Love and Beauty:**
+  - Dominance of words like "beautiful," "love," and "halo."
+  - Potential for spiritual or protective connotations with the word "halo."
 
-Additionally, the words "slow," "beat," and "smack" could relate to the musical elements of R&B, which often include a prominent beat and rhythmic patterns that can be slow and sensual. 
+- **Emotion and Relationship Focus:**
+  - Presence of "just," "feel," "make," and "wanna" indicating action and desire.
+  - Central themes often revolve around individual emotions and relationships.
 
-Overall, the word cloud suggests that the selected R&B songs likely explore themes of love and relationships with a strong emotional undercurrent, coupled with a significant focus on the rhythmic and musical aspects that define the genre.
+- **Musical Characteristics:**
+  - Words like "slow," "beat," and "smack" suggest rhythmic and musical elements.
+  - R&B often features beats and patterns that are slow and sensual.
 
+- **Overall Impression:**
+  - Word cloud points to R&B songs discussing love and relationships.
+  - There's a strong emotional depth paired with an emphasis on music and rhythm.
+  
 ### Word Cloud for Rap
 <img src="/assets/images/assignment2_corpus/rap_cloud.jpg" style="zoom:125%;" />
-The word cloud from the lyrics of 20 rap songs features words that are quite bold and indicative of themes commonly found in rap music. Words such as "loyalty," "real," "money," "feel," "ain't," "know," and "wanna" suggest a focus on authenticity, desire, and material success.
+- **Core Themes:**
+  - Emphasis on "loyalty," "real," "money," "feel," "ain't," "know," and "wanna" signifying authenticity, desire, and the pursuit of material success.
 
-The prominence of the words "bitch" and "nigga" reflects language that, while controversial, is often used in rap to convey complex themes of power, identity, and social commentary. It's also common for such language to be used within the context of the genre to address interpersonal relationships and societal issues.
+- **Language Use:**
+  - Utilization of controversial terms such as "bitch" and "nigga" to express power dynamics, identity, and social commentary.
+  - These terms often relate to interpersonal relationships and reflections on societal issues within the rap context.
 
-The words "baby," "mama," "life," and "way" might point to more personal storytelling, where artists might reflect on their personal experiences, family, and the paths they've taken.
+- **Personal Storytelling:**
+  - Words like "baby," "mama," "life," and "way" suggest narratives based on personal experiences and family life.
 
-Moreover, the presence of words like "bounce," "lil," "gon," and "OG" are tied to the culture and slang unique to the rap genre. They speak to the rhythm, lifestyle, and heritage that the music often celebrates.
+- **Cultural References:**
+  - Inclusion of slang terms like "bounce," "lil," "gon," and "OG" indicative of rap's unique cultural and rhythmic elements.
+  - These terms celebrate the lifestyle, rhythm, and heritage intrinsic to rap music.
 
 
 ## Similarities and Differences found in Word Clouds
 
 #### Similarities
 
-Emotional Expression: All three styles of music use lyrics to express strong emotions, whether it's the passion and anger of Metal, the love and longing of R&B, or the realism and social commentary of Rap.
-PERSONAL AND SOCIAL: All three explore personal experiences and social phenomena to some degree, reflecting broader themes through a personal lens.
-LYRICAL CHARACTERISTICS: Lyrics in all three styles tend to use repetitive keywords to emphasize themes.
-#### Difference
+- Emotional Expression: All three styles of music use lyrics to express strong emotions, whether it's the passion and anger of Metal, the love and longing of R&B, or the realism and social commentary of Rap.
+- PERSONAL AND SOCIAL: All three explore personal experiences and social phenomena to some degree, reflecting broader themes through a personal lens.
+- LYRICAL CHARACTERISTICS: Lyrics in all three styles tend to use repetitive keywords to emphasize themes.
+
+#### Differences
 
 *Thematic Focus*
 
-Metal tends to explore deeper themes such as inner struggles, confrontation, and the supernatural.
-R&B usually focuses on love, emotional depth and relationships.
-Rap, on the other hand, is more diverse and includes not only street culture, personal struggles and social challenges, but also an exploration of power and identity.
+- Metal tends to explore deeper themes such as inner struggles, confrontation, and the supernatural.
+- R&B usually focuses on love, emotional depth and relationships.
+- Rap, on the other hand, is more diverse and includes not only street culture, personal struggles and social challenges, but also an exploration of power and identity.
 
 *Language Style*
 
@@ -75,6 +100,19 @@ The language of R&B is usually more tender and romantic, sometimes containing se
 The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
 
 ##Geographical Info
+Metal
+<iframe style='width: 477px; height: 342px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-175e934932443757a181ba54187f31e6&overridesId=f7f79031f8bc39caa30b98814cc4ed31&corpus=b9dc7b26e9099b2e1a51be28f2d6f1e9'></iframe>
 Rap
-<iframe style='width: 515px; height: 305px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-eb506bd44ca33711ea42bed8a7627f55&corpus=065a4bd902332f0ba0384454a8da37fb'></iframe>
+<iframe style='width: 515px; height: 305px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-eb506bd44ca33711ea42bed8a7627f55&overridesId=bbc9b4b26473cc456ec45b87844c135a&corpus=065a4bd902332f0ba0384454a8da37fb'></iframe>
+
+From the result, we can see both metal and Rap lyrics favor cities in the US. Cities are used as symbols of power, money and memories. 
+
+However, 
+
+R&B
+
+No Geographical Data Found.
+
+
+
 
