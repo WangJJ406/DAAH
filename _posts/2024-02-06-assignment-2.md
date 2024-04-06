@@ -25,7 +25,7 @@ By dissecting the lyrical choices made by artists across these vastly different 
 ## Word Clouds 
 
 ### Word Cloud for Metal
-<img src="/assets/images/assignment2_corpus/metal-cloud.jpg" style="zoom:25%;" />
+<img src="/assets/images/assignment2_corpus/metal-cloud.jpg" style="zoom:125%;" />
 
 The image is a word cloud formed from the lyrics of 20 metal songs. It highlights certain words that are likely central to the themes and emotions conveyed in the lyrics. Words like "heart," "burning," "feel," "know," "day," "night," "eyes," and "mind" stand out, suggesting that these metal songs might deal with emotions, inner experiences, and concepts of duality such as "day and night." The genre often evokes strong emotions and might express passion, anguish, rage, or other intense feelings.
 
@@ -33,7 +33,7 @@ Additionally, terms such as "breaking," "evil," "hell," "ride," "space," and "qu
 
 
 ### Word Cloud for R&B
-<img src="/assets/images/assignment2_corpus/rnb_cloud.jpg" style="zoom:25%;" />
+<img src="/assets/images/assignment2_corpus/rnb_cloud.jpg" style="zoom:125%;" />
 This image is a word cloud generated from the lyrics of 20 R&B songs. Words like "beautiful," "love," "know," "halo," and "come" are prominently featured, suggesting themes of love, beauty, and perhaps a sense of spiritual or protective imagery as suggested by the word "halo." 
 
 The presence of words such as "just," "feel," "make," and "wanna" implies action and desire, which are often central to the narrative of R&B songs, focusing on the emotions and relationships of the individuals. 
@@ -43,7 +43,7 @@ Additionally, the words "slow," "beat," and "smack" could relate to the musical 
 Overall, the word cloud suggests that the selected R&B songs likely explore themes of love and relationships with a strong emotional undercurrent, coupled with a significant focus on the rhythmic and musical aspects that define the genre.
 
 ### Word Cloud for Rap
-<img src="/assets/images/assignment2_corpus/rap_cloud.jpg" style="zoom:25%;" />
+<img src="/assets/images/assignment2_corpus/rap_cloud.jpg" style="zoom:125%;" />
 The word cloud from the lyrics of 20 rap songs features words that are quite bold and indicative of themes commonly found in rap music. Words such as "loyalty," "real," "money," "feel," "ain't," "know," and "wanna" suggest a focus on authenticity, desire, and material success.
 
 The prominence of the words "bitch" and "nigga" reflects language that, while controversial, is often used in rap to convey complex themes of power, identity, and social commentary. It's also common for such language to be used within the context of the genre to address interpersonal relationships and societal issues.
