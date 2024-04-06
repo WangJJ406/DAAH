@@ -113,7 +113,7 @@ However, Differences lies in that:
 - Rap songs tends to use more geographical locations than metal songs. This might indicate that rap songs features more on explicit and concrete expressions.
 - Cities showed in the metal song lyrics are mostly on the East and West Coast of United States, while rap songs have more cities in the Central and Eastern United States.
 
-R&B
+*R&B*
 
 No Geographical Data Found.
 
