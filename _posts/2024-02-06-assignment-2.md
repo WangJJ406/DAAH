@@ -58,7 +58,6 @@ By dissecting the lyrical choices made by artists across these vastly different 
 
 - **Overall Impression:**
   - Word cloud points to R&B songs discussing love and relationships.
-  - There's a strong emotional depth paired with an emphasis on music and rhythm.
 
 ### Word Cloud for Rap
 <img src="/assets/images/assignment2_corpus/rap_cloud.jpg" style="zoom:125%;" />
@@ -117,6 +116,7 @@ However, Differences lies in that:
 
 No Geographical Data Found.
 
+This might indicate that R&B songs do not consider geographical locations as a major way to express emotions or relate to themes like "love" and "relationships".
 
 
 
