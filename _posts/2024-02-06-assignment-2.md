@@ -59,9 +59,10 @@ By dissecting the lyrical choices made by artists across these vastly different 
 - **Overall Impression:**
   - Word cloud points to R&B songs discussing love and relationships.
   - There's a strong emotional depth paired with an emphasis on music and rhythm.
-  
+
 ### Word Cloud for Rap
 <img src="/assets/images/assignment2_corpus/rap_cloud.jpg" style="zoom:125%;" />
+
 - **Core Themes:**
   - Emphasis on "loyalty," "real," "money," "feel," "ain't," "know," and "wanna" signifying authenticity, desire, and the pursuit of material success.
 
@@ -95,23 +96,28 @@ By dissecting the lyrical choices made by artists across these vastly different 
 
 *Language Style*
 
-Metal's language style tends to be abstract and symbolic, with wording that is sometimes darker and more philosophical.
-The language of R&B is usually more tender and romantic, sometimes containing sexual innuendo, with subtle, rhythmic phrasing.
-The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
+- Metal's language style tends to be abstract and symbolic, with wording that is sometimes darker and more philosophical.
+- The language of R&B is usually more tender and romantic, sometimes containing sexual innuendo, with subtle, rhythmic phrasing.
+- The language of Rap lyrics is more direct and raw, often including slang and street slang, with blunt and sometimes provocative wording.
 
 ##Geographical Info
-Metal
+
+*Metal*
 <iframe style='width: 477px; height: 342px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-175e934932443757a181ba54187f31e6&overridesId=f7f79031f8bc39caa30b98814cc4ed31&corpus=b9dc7b26e9099b2e1a51be28f2d6f1e9'></iframe>
-Rap
+*Rap*
 <iframe style='width: 515px; height: 305px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-eb506bd44ca33711ea42bed8a7627f55&overridesId=bbc9b4b26473cc456ec45b87844c135a&corpus=065a4bd902332f0ba0384454a8da37fb'></iframe>
 
 From the result, we can see both metal and Rap lyrics favor cities in the US. Cities are used as symbols of power, money and memories. 
 
-However, 
+However, Differences lies in that:
+- Rap songs tends to use more geographical locations than metal songs. This might indicate that rap songs features more on explicit and concrete expressions.
+- Cities showed in the metal song lyrics are mostly on the East and West Coast of United States, while rap songs have more cities in the Central and Eastern United States.
 
 R&B
 
 No Geographical Data Found.
+
+
 
 
 
