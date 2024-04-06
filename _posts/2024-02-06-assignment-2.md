@@ -79,13 +79,13 @@ By dissecting the lyrical choices made by artists across these vastly different 
 
 ## Similarities and Differences found in Word Clouds
 
-#### Similarities
+### Similarities
 
 - Emotional Expression: All three styles of music use lyrics to express strong emotions, whether it's the passion and anger of Metal, the love and longing of R&B, or the realism and social commentary of Rap.
 - PERSONAL AND SOCIAL: All three explore personal experiences and social phenomena to some degree, reflecting broader themes through a personal lens.
 - LYRICAL CHARACTERISTICS: Lyrics in all three styles tend to use repetitive keywords to emphasize themes.
 
-# #### Differences
+### Differences
 
 *Thematic Focus*
 
