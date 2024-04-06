@@ -85,7 +85,7 @@ By dissecting the lyrical choices made by artists across these vastly different 
 - PERSONAL AND SOCIAL: All three explore personal experiences and social phenomena to some degree, reflecting broader themes through a personal lens.
 - LYRICAL CHARACTERISTICS: Lyrics in all three styles tend to use repetitive keywords to emphasize themes.
 
-#### Differences
+# #### Differences
 
 *Thematic Focus*
 
