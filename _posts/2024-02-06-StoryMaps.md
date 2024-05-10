@@ -3,8 +3,7 @@ title: "StoryMaps - Love data Week"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - Original
 toc: true
 toc_label: "Love Data Week"
 toc_sticky: true

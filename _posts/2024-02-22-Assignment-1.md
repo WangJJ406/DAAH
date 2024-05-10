@@ -4,9 +4,7 @@ last_modified_at: 2024-02-27 T16:20:02-05:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Original
 toc: true
 toc_sticky: true
 toc_label: "Blog Parts"
