@@ -1,5 +1,6 @@
+
 ---
-title: "Assignment 4"
+title: "Clustering and Classifying Images "
 categories:
   - Blog
 tags:
@@ -11,7 +12,6 @@ toc_sticky: true
 toc_icon: "calendar" #"book"
 ---
 ---
-
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
