@@ -36,7 +36,7 @@ To understand how the software Orange processes and categorizes images, I initia
 
 By consolidating the cat and dog images into a single folder and inputting them into Orange, the software employs the Inception v3 architecture to automatically cluster the images based on default parameters, displaying the results on a grid.
 
-<img src="/assets/images/assignment2_images/overview.jpg" style="zoom:50%;" />
+<img src="/assets/images/assignment2_images/overview.jpg" style="zoom:50%;"/>
 
 Interestingly, Orange effectively differentiates between cats and dogs. Observing the grid, it's noticeable that cats predominantly occupy the left section, while dogs are grouped on the right.
 
@@ -56,7 +56,7 @@ Advancing further into the clusters, specifically within the dog categories, it 
 
 Subsequently, I organized the same image set into predefined folders by species for a controlled test. This setup allows Orange to independently scan and analyze each folder, comparing its findings with the pre-assigned classifications.
 
-###Classifying Breed
+### Classifying Breed
 
 The machine is not doing well in classfiying breeds because it considers color more than breeds. 
 
