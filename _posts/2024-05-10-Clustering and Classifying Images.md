@@ -57,6 +57,10 @@ Advancing further into the clusters, specifically within the dog categories, it 
 
 Subsequently, I organized the same image set into predefined folders by species for a controlled test. This setup allows Orange to independently scan and analyze each folder, comparing its findings with the pre-assigned classifications.
 
+###Classifying Breed
+
+The machine is not doing well in classfiying breeds because it considers color more than breeds. 
+
 ### Confusion Matrix and Testing Accuracy
 
 *Confusion Matrix*
@@ -66,6 +70,10 @@ Subsequently, I organized the same image set into predefined folders by species 
 <img src="/assets/images/assignment2_images/confusian_matrix.jpg" style="zoom:25%;" />
 
 The confusion matrix and testing scores reveal that Orange performs exceptionally well in distinguishing between cats and dogs. It boasts a 100% accuracy rate, matching the classifications indicated by the folder labels. This experiment highlights the effectiveness of machine learning in recognizing and differentiating between animal species based on visual data.
+
+## Algorithm Prediction
+
+From this set of pictures, I think it is obvious that machine classifies the photos well, and is able to somehow recognize faces depend on the patterns and colors on the faces. However, I do think that classifiying cats and dogs are too easy for the machine because it must have been trained through significant amount of similiar data.
 
 
 
