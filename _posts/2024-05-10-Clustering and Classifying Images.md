@@ -1,5 +1,4 @@
 
----
 title: "Clustering and Classifying Images "
 categories:
   - Blog
