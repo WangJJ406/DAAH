@@ -63,10 +63,10 @@ The machine is not doing well in classfiying breeds because it considers color m
 ### Confusion Matrix and Testing Accuracy
 
 *Confusion Matrix*
-<img src="/assets/images/assignment4_images/confusian_matrix.jpg" style="zoom:80%;" />
+<img src="/assets/images/assignment4_images/confusion_matrix.jpg" style="zoom:60%;" />
 
 *Test Score*
-<img src="/assets/images/assignment4_images/confusian_matrix.jpg" style="zoom:80%;" />
+<img src="/assets/images/assignment4_images/test_score.jpg" style="zoom:60%;" />
 
 The confusion matrix and testing scores reveal that Orange performs exceptionally well in distinguishing between cats and dogs. It boasts a 100% accuracy rate, matching the classifications indicated by the folder labels. This experiment highlights the effectiveness of machine learning in recognizing and differentiating between animal species based on visual data.
 
