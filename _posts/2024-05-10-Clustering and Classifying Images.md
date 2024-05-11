@@ -21,7 +21,7 @@ toc_icon: "calendar" #"book"
 
 Do you notice how your iPhone offers insights about the breed of your cherished pet? Apple incorporates an extensive database filled with countless images to train its machines. This technology allows your iPhone to recognize various pet breeds by comparing your pet’s image with the ones in its database.
 
-<img src="/assets/images/assignment2_images/1.png" style="zoom:80%;" />
+<img src="/assets/images/assignment4_images/1.png" style="zoom:80%;" />
 
 ## How Do Machines Recognize Your Pet? Exploring Machine Learning in Distinguishing Cats and Dogs
 
@@ -29,14 +29,14 @@ Do you notice how your iPhone offers insights about the breed of your cherished 
 
 To understand how the software Orange processes and categorizes images, I initiated an experiment by downloading a diverse set of cat and dog pictures from Kaggle. Utilizing a predefined data analysis workflow in Orange, I imported these images. The software then organizes them into a visual grid format. This grid helps infer the criteria used by the machine to categorize each image.
 
-<img src="/assets/images/assignment2_images/procedure.jpg" style="zoom:50%;" />
+<img src="/assets/images/assignment4_images/procedure.jpg" style="zoom:50%;" />
 
 ## Clustering Techniques
 ### Grid Representation
 
 By consolidating the cat and dog images into a single folder and inputting them into Orange, the software employs the Inception v3 architecture to automatically cluster the images based on default parameters, displaying the results on a grid.
 
-<img src="/assets/images/assignment2_images/overview.jpg" style="zoom:50%;"/>
+<img src="/assets/images/assignment4_images/overview.jpg" style="zoom:50%;"/>
 
 Interestingly, Orange effectively differentiates between cats and dogs. Observing the grid, it's noticeable that cats predominantly occupy the left section, while dogs are grouped on the right.
 
@@ -46,11 +46,11 @@ To delve deeper into how Orange classifies these images, I utilized its "hierarc
 
 The initial layer of classification interestingly does not separate cats from dogs but instead prioritizes images based on the presence of light golden fur. As a result, the selected images predominantly feature light golden-haired cats. This dataset notably lacks dogs with similar fur coloration, explaining their absence.
 
-<img src="/assets/images/assignment2_images/first_category.jpg" style="zoom:50%;" />
+<img src="/assets/images/assignment4_images/first_category.jpg" style="zoom:50%;" />
 
 Advancing further into the clusters, specifically within the dog categories, it appears that Orange excels in facial recognition. Dogs with similar facial features are grouped together, indicating a sophisticated level of detail in the machine’s analytical capabilities.
 
-<img src="/assets/images/assignment2_images/face_pattern.jpg" style="zoom:50%;" />
+<img src="/assets/images/assignment4_images/face_pattern.jpg" style="zoom:50%;" />
 
 ## Classification Performance
 
@@ -63,10 +63,10 @@ The machine is not doing well in classfiying breeds because it considers color m
 ### Confusion Matrix and Testing Accuracy
 
 *Confusion Matrix*
-<img src="/assets/images/assignment2_images/confusian_matrix.jpg" style="zoom:80%;" />
+<img src="/assets/images/assignment4_images/confusian_matrix.jpg" style="zoom:80%;" />
 
 *Test Score*
-<img src="/assets/images/assignment2_images/confusian_matrix.jpg" style="zoom:80%;" />
+<img src="/assets/images/assignment4_images/confusian_matrix.jpg" style="zoom:80%;" />
 
 The confusion matrix and testing scores reveal that Orange performs exceptionally well in distinguishing between cats and dogs. It boasts a 100% accuracy rate, matching the classifications indicated by the folder labels. This experiment highlights the effectiveness of machine learning in recognizing and differentiating between animal species based on visual data.
 
