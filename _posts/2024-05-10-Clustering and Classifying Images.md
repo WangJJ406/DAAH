@@ -16,7 +16,9 @@ toc_icon: "calendar" #"book"
 >### Try This:
 
 >(1) Begin by powering on your iPhone and navigate to your photo album.
+>
 >(2) Search through your collection to find a favorite picture of your beloved cat or dog.
+>
 >(3) Once you've selected an image, swipe upwards on the screen.
 
 Do you notice how your iPhone offers insights about the breed of your cherished pet? Apple incorporates an extensive database filled with countless images to train its machines. This technology allows your iPhone to recognize various pet breeds by comparing your pet’s image with the ones in its database.
